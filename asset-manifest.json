@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/popularFilms/static/css/main.1a99bae8.chunk.css",
+    "main.js": "/popularFilms/static/js/main.9dd85f5f.chunk.js",
+    "main.js.map": "/popularFilms/static/js/main.9dd85f5f.chunk.js.map",
+    "runtime-main.js": "/popularFilms/static/js/runtime-main.2dcd1ecd.js",
+    "runtime-main.js.map": "/popularFilms/static/js/runtime-main.2dcd1ecd.js.map",
+    "static/js/2.64bc5253.chunk.js": "/popularFilms/static/js/2.64bc5253.chunk.js",
+    "static/js/2.64bc5253.chunk.js.map": "/popularFilms/static/js/2.64bc5253.chunk.js.map",
+    "index.html": "/popularFilms/index.html",
+    "static/css/main.1a99bae8.chunk.css.map": "/popularFilms/static/css/main.1a99bae8.chunk.css.map",
+    "static/js/2.64bc5253.chunk.js.LICENSE.txt": "/popularFilms/static/js/2.64bc5253.chunk.js.LICENSE.txt",
+    "static/media/preloader.ff7d63b8.gif": "/popularFilms/static/media/preloader.ff7d63b8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dcd1ecd.js",
+    "static/js/2.64bc5253.chunk.js",
+    "static/css/main.1a99bae8.chunk.css",
+    "static/js/main.9dd85f5f.chunk.js"
+  ]
+}

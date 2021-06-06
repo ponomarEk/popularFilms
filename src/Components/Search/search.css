@@ -1,0 +1,14 @@
+.search{
+    margin-top: 50px;
+}
+.search input{
+    height: 40px;
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 15px;
+    outline: none;
+    border: solid rgb(92, 46, 121) 2px;
+    background-color: rgb(244, 244, 253);
+
+}
